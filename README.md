@@ -1,16 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saman Tousi
-===================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saman
 
-Developer
----------
+I've started coding since 2022, passionate about building software and learning new technologies. I started my journey with C and have since expanded my interests into cryptography, artificial intelligence, and computer systems.
 
-I've been learning programming for 2 years and I've start coding with C language.
+- 🌍 Based in Tehran, Iran
+- ✉️ Reach me at: samantousi1@gmail.com
+- 🧠 Currently studying Neurosicence & AI
+- 🤝 Open to collaboration on open-source and community projects
+- 💻 Interested in Software Development, Security, and System Programming
+- 🚀 Always learning and exploring new technologies
 
-* 🌍  I'm based in Tehran.
-* ✉️  You can contact me at [samantousi1@gmail.com](mailto:samantousi1@gmail.com)
-* 🧠  I'm learning Cryptography and AI.
-* 🤝  I'm open to collaborating on projects.
-* ⚡  I'm a computer geek.
+### Current Focus
+- Neuroscience
+- Artificial Intelligence
+- Problem Solving
+- Software Engineering
 
 ### Skills
 
